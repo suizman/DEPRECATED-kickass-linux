@@ -3,4 +3,3 @@
     connection: local
     roles:
       - { kickass-zsh }
-    tasks:
