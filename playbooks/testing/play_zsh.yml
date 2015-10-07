@@ -1,6 +1,5 @@
 ---
 - hosts: localhost
-  sudo: yes
   connection: local
   gather_facts: false
   roles:
