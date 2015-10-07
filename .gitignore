@@ -1,2 +1,2 @@
 roles
-playbooks/testing/roles
+playbooks/testing/*/roles
