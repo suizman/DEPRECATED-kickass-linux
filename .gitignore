@@ -1,2 +1,4 @@
 roles
 playbooks/testing/*/roles
+Vagrantfile
+.vagrant/*

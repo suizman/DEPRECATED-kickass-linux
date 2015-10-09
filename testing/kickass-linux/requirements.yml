@@ -1,5 +1,8 @@
 ---
 ### Install required roles..
+- src: https://github.com/suizman/kickass-zsh.git
+  path: roles
+  scm: git
 - src: https://github.com/suizman/kickass-slim.git
   path: roles
   scm: git

@@ -1,0 +1,6 @@
+---
+- name: Play on Arch Linux
+  hosts: all
+  roles:
+    - { role: 'roles/kickass-zsh' }
+    - { role: 'roles/kickass-slim' }
