@@ -1,6 +1,8 @@
 ---
 - name: Play on Arch Linux
-  hosts: all
+  hosts: localhost
+  connection: local
   roles:
+    - { role: 'roles/ansible-git' }
     - { role: 'roles/kickass-zsh' }
     - { role: 'roles/kickass-slim' }
