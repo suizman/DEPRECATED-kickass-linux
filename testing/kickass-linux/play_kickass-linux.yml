@@ -7,4 +7,5 @@
     - { role: 'roles/ansible-python' }
     - { role: 'roles/kickass-zsh' }
     - { role: 'roles/kickass-tmux' }
+    - { role: 'roles/kickass-xfce' }
     - { role: 'roles/kickass-slim' }
