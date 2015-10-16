@@ -4,5 +4,7 @@
   connection: local
   roles:
     - { role: 'roles/ansible-git' }
+    - { role: 'roles/ansible-python' }
     - { role: 'roles/kickass-zsh' }
+    - { role: 'roles/kickass-tmux' }
     - { role: 'roles/kickass-slim' }
