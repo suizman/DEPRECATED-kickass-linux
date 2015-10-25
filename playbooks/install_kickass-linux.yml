@@ -1,6 +1,6 @@
 ---
-- name: Play KickAss Linux
-  hosts: localhost
+- name: Lets KickAss Linux
+  hosts: all
   connection: local
   roles:
     - { role: 'ansible-git' }
