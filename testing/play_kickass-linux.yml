@@ -1,0 +1,11 @@
+---
+- name: Play on Arch Linux
+  hosts: localhost
+  connection: local
+  roles:
+    - { role: 'ansible-git' }
+    - { role: 'ansible-python' }
+    - { role: 'kickass-zsh' }
+    - { role: 'kickass-tmux' }
+    - { role: 'kickass-xfce' }
+    - { role: 'kickass-slim' }
