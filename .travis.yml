@@ -15,7 +15,7 @@ install:
 
 script:
   # Install required ansible roles
-  - nsible-galaxy install -r testing/requirements.yml -p testing/roles --force
+  - ansible-galaxy install -r testing/requirements.yml -p testing/roles --force
 
   # Check the role/playbook's syntax.
   - ansible-playbook -i testing/inventory testing/play_kickass-linux.yml --syntax-check
