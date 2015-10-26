@@ -1,4 +1,6 @@
 # KickAss Linux
+
+[![Join the chat at https://gitter.im/suizman/kickass-linux](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/suizman/kickass-linux?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](http://img.shields.io/travis/suizman/kickass-linux.svg?style=flat-square)][travis]
 [travis]: http://travis-ci.org/suizman/kickass-linux
 ```WARNING: Work in progress! Still have several bugs to be fixed on non Arch Linux or Debian distros..```
