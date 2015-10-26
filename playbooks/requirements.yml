@@ -1,0 +1,20 @@
+---
+### Install required roles..
+- src: https://github.com/suizman/ansible-git.git
+  scm: git
+
+- src: https://github.com/suizman/ansible-python.git
+  scm: git
+
+- src: https://github.com/suizman/kickass-zsh.git
+  scm: git
+
+- src: https://github.com/suizman/kickass-tmux.git
+  scm: git
+
+- src: https://github.com/suizman/kickass-slim.git
+  scm: git
+
+- src: https://github.com/suizman/kickass-xfce.git
+  scm: git
+
