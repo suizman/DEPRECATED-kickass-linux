@@ -48,7 +48,7 @@ KickAss Linux is a simple way to turn your favorite Linux distro into a powerful
 ## Basic Installation
 
 #### Via curl
-```sh -c "$(curl -fsSL https://raw.github.com/suizman/kickass-linux/install.sh)"```
+```bash -c "$(curl -fsSL https://raw.githubusercontent.com/suizman/kickass-linux/master/install.sh)"```
 
 #### Via wget
-```sh -c "$(wget https://raw.github.com/suizman/kickass-linux/install.sh -O -)"```
+```bash -c "$(wget https://raw.githubusercontent.com/suizman/kickass-linux/master/install.sh -O -)"```

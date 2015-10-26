@@ -11,7 +11,6 @@
 
 # Clone KickAss Linux
 function clone_repo (){
-echo -e "Cloning repo..\n"
 git clone https://github.com/suizman/kickass-linux
 }
 
@@ -33,7 +32,7 @@ if [[ -f /usr/bin/ansible-playbook ]] && [[ -f /usr/bin/git ]]; then
   cd kickass-linux
   install_requirements
   install_kickass-linux
-  echo -e " Enjoy KickAss Linux..\n"
+  echo -e "Enjoy KickAss Linux..\n"
 else
   echo -e "Please install Ansible & Git and run again this script..\n"
   exit 1
