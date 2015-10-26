@@ -3,7 +3,7 @@
 [travis]: http://travis-ci.org/suizman/kickass-linux
 ```WARNING: Work in progress! Still have several bugs to be fixed on non Arch Linux or Debian distros..```
 
-KickAss Linux is a simple way to turn your favorite Linux distro into a powerfull & beautiful workstation inculding all kind of goodies to improve Terminal or GUI but minimizing resource consumption too.
+KickAss Linux is a simple way to turn your favorite Linux distro into a powerful & beautiful workstation including all kind of goodies to improve Terminal or GUI but minimizing resource consumption too.
 
 # Requirements
 
