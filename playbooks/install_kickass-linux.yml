@@ -6,6 +6,6 @@
     - { role: 'ansible-git' }
     - { role: 'ansible-python' }
     - { role: 'kickass-zsh' }
-    - { role: 'kickass-tmux' }
     - { role: 'kickass-xfce' }
+    - { role: 'kickass-tmux' }
     - { role: 'kickass-slim' }
